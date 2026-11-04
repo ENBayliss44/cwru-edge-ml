@@ -1,0 +1,4 @@
+{
+ "6664_mlp_load3": {"flash_full": 323345, "flash_baseline": 308853, "flash_edge_ml": 14492, "static_ram_full": 122452, "static_ram_baseline": 24148, "static_ram_edge_ml": 98304},
+ "1666_mlp_load3": {"flash_full": 320905, "flash_baseline": 308553, "flash_edge_ml": 12352, "static_ram_full": 48724, "static_ram_baseline": 24148, "static_ram_edge_ml": 24576}
+}
