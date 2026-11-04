@@ -108,4 +108,4 @@ On hardware, flash `firmware/edge_ml_bench/`, then run:
 
 Results are written to `results/`.
 
-Data: Case Western Reserve University Bearing Data Center.
+Code: MIT license (see `LICENSE`). Data: Case Western Reserve University Bearing Data Center; it is downloaded by `src/download.py`, not redistributed here.
