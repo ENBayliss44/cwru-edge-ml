@@ -1,0 +1,162 @@
+{
+ "1666_logreg_load0": {
+  "n": 95,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.0008463896811008453,
+  "c_acc": 0.4631578947368421,
+  "python_int8_acc": 0.4631578947368421
+ },
+ "1666_mlp_load0": {
+  "n": 95,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.0008463896811008453,
+  "c_acc": 0.5684210526315789,
+  "python_int8_acc": 0.5684210526315789
+ },
+ "1666_logreg_load1": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0004347826086956522,
+  "zq_max_abs_diff": 1,
+  "feature_max_rel_err": 0.00010432379349367693,
+  "c_acc": 0.84,
+  "python_int8_acc": 0.84
+ },
+ "1666_mlp_load1": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0004347826086956522,
+  "zq_max_abs_diff": 1,
+  "feature_max_rel_err": 0.00010432379349367693,
+  "c_acc": 0.94,
+  "python_int8_acc": 0.94
+ },
+ "1666_logreg_load2": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 6.087991641834378e-05,
+  "c_acc": 0.94,
+  "python_int8_acc": 0.94
+ },
+ "1666_mlp_load2": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 6.087991641834378e-05,
+  "c_acc": 0.94,
+  "python_int8_acc": 0.94
+ },
+ "1666_logreg_load3": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.0001417436869814992,
+  "c_acc": 0.69,
+  "python_int8_acc": 0.69
+ },
+ "1666_mlp_load3": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.0001417436869814992,
+  "c_acc": 0.62,
+  "python_int8_acc": 0.62
+ },
+ "6664_logreg_load0": {
+  "n": 95,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.0013811294920742512,
+  "c_acc": 0.7789473684210526,
+  "python_int8_acc": 0.7789473684210526
+ },
+ "6664_mlp_load0": {
+  "n": 95,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.0013811294920742512,
+  "c_acc": 0.8631578947368421,
+  "python_int8_acc": 0.8631578947368421
+ },
+ "6664_logreg_load1": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.00013447296805679798,
+  "c_acc": 1.0,
+  "python_int8_acc": 1.0
+ },
+ "6664_mlp_load1": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.00013447296805679798,
+  "c_acc": 1.0,
+  "python_int8_acc": 1.0
+ },
+ "6664_logreg_load2": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.00014916037616785616,
+  "c_acc": 1.0,
+  "python_int8_acc": 1.0
+ },
+ "6664_mlp_load2": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.00014916037616785616,
+  "c_acc": 1.0,
+  "python_int8_acc": 1.0
+ },
+ "6664_logreg_load3": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.00032041987287811935,
+  "c_acc": 0.91,
+  "python_int8_acc": 0.91
+ },
+ "6664_mlp_load3": {
+  "n": 100,
+  "int_inference_bit_exact": true,
+  "c_vs_python_class_agreement": 1.0,
+  "zq_mismatch_fraction": 0.0,
+  "zq_max_abs_diff": 0,
+  "feature_max_rel_err": 0.00032041987287811935,
+  "c_acc": 0.97,
+  "python_int8_acc": 0.97
+ }
+}

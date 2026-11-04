@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/raw/
+data/*.npz
+.DS_Store
+secrets.h
+build/
