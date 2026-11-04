@@ -1,4 +1,4 @@
-"""Per-window features. Written to mirror firmware/edge_ml/features.c exactly:
+"""Per-window features. Written to mirror firmware/edge_ml_bench/src/edge_ml/edge_ml.c:
 same order, same definitions, float32 inputs.
 
 Features (23):
